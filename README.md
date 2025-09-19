@@ -1,1 +1,1 @@
-![Discord Presence](https://lanyard.cnrad.dev/api/1365832318555521136)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1365832318555521136?idleMessage=Doing%20something%20important%20&borderRadius=20px&bg=101010&showDisplayName=true)](https://discord.com/users/1365832318555521136)
